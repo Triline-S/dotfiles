@@ -1,0 +1,9 @@
+cd 1
+cd library
+clear =p
+fset classical=genre="classical"
+fset classical=genre="otacore"
+help
+add Music/
+add ~/Music/
+add ~/Music
