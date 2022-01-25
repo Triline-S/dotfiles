@@ -3,8 +3,8 @@
 #
 
 # terminal emulator
-super + Return
-	xfce4-terminal
+super +  Return
+	kitty -o background_opacity=0.8
 
 # drop-down terminal
 super + shift + Return

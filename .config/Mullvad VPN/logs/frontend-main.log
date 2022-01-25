@@ -1,0 +1,11 @@
+[2022-01-20 18:43:11.470][debug] Chromium sandbox is enabled
+[2022-01-20 18:43:11.471][info] Running version 2021.6
+[2022-01-20 18:43:11.471][debug] Creating gui-settings file and writing the default settings to it
+[2022-01-20 18:43:11.523][info] Detected locale: en-US
+[2022-01-20 18:43:11.536][info] Connected to the daemon
+[2022-01-20 18:43:11.650][info] Skip autoconnect because GUI setting is disabled
+[2022-01-20 18:43:11.861][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/triline/.config/autostart/mullvad-vpn.desktop'
+[2022-01-20 19:43:11.547][debug] GRPC Channel connectivity state changed to 2
+[2022-01-20 20:43:11.551][debug] GRPC Channel connectivity state changed to 2
+[2022-01-20 21:43:11.553][debug] GRPC Channel connectivity state changed to 2
+[2022-01-20 22:43:11.559][debug] GRPC Channel connectivity state changed to 2

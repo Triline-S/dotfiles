@@ -1,0 +1,6 @@
+[2022-01-20 18:43:11.908][debug] Tunnel state: disconnected
+[2022-01-20 18:43:41.929][debug] Tunnel state: connecting
+[2022-01-20 18:43:43.158][debug] Tunnel state: connected
+[2022-01-20 18:43:47.783][debug] Tunnel state: disconnecting
+[2022-01-20 18:43:47.815][debug] Tunnel state: connecting
+[2022-01-20 18:43:47.935][debug] Tunnel state: connected
